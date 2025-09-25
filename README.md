@@ -1,4 +1,4 @@
-# FUTURE-INTERNS-TASK-3
+# FUTURE_BC_Task03
 # Task 3 – Crypto Meme / Poster
 
 ## Theory  
